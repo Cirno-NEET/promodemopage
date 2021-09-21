@@ -1,0 +1,45 @@
+@font-face
+{
+  font-family: Beleren;
+  src: url(beleren-bold.ttf);
+}
+
+body
+{
+  background: #222;
+  color: #fff;
+  font-family: sans-serif;
+}
+h1
+{
+    color: #ff0072;
+    font-family: 'Beleren';
+    font-size: 64px;
+    text-align: center;
+}
+
+.specialUnderline
+{
+  text-decoration: underline;
+}
+
+.heroImage
+{
+  width: 100%;
+}
+
+p{
+  font-family: 'Beleren';
+  font-size: 32px;
+  padding: 32px;
+  margin: 0px 32px 4px 32px;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Beleren';
+  font-size: 16px;
+  padding: 32px;
+  margin: 0px 32px 4px 32px;
+  text-align: center;
+}
